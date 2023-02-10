@@ -8,3 +8,8 @@ In my project I would like to check if the MEDEA gene activity is influenced by 
 
 Cooking, Hiking, Drawing
 Favorite color: dark blue
+
+Internships:
+Plant science, UZH
+Antropology, UZH
+Phytochemestry, IIAP
